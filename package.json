@@ -1,0 +1,14 @@
+{
+  "name": "@cjoshi/tiny",
+  "version": "1.0.0",
+  "description": "Replace all spaces with `*` from a string",
+  "license": "MIT",
+  "repository": "cjoshi/tiny",
+  "main": "index.js",
+  "keywords": [
+    "tiny",
+    "npm",
+    "package",
+    "cjoshi"
+  ]
+}
