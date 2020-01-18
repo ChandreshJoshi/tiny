@@ -3,12 +3,13 @@
   "version": "1.0.0",
   "description": "Replace all spaces with `*` from a string",
   "license": "MIT",
-  "repository": "cjoshi/tiny",
+  "repository": "ChandreshJoshi/tiny",
   "main": "index.js",
   "keywords": [
     "tiny",
     "npm",
     "package",
-    "cjoshi"
+    "cjoshi",
+    "ChandreshJoshi"
   ]
 }
